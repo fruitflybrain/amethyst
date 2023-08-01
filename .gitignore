@@ -3,3 +3,7 @@ exampleSite/public/
 .DS_Store
 .hugo_build.lock
 themes
+content
+static/linkmap
+assets/indices/linkIndex.json
+assets/indices/contentIndex.json

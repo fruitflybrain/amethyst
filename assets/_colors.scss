@@ -1,8 +1,8 @@
 :root {
     --light: #faf8f8;
     --dark: #141021;
-    --secondary: #7c00ce;
-    --tertiary: #ff38e4;
+    --secondary: #0099db;
+    --tertiary: #007399;
     --visited: #afbfc9;
     --primary: #f28482;
     --gray: #3f3f3f;
@@ -10,25 +10,25 @@
     --outlinegray: #dadada;
     --million-progress-bar-color: var(--secondary);
     --highlighted: #8446ff88;
-    --header: #bca1ff;
-    --title: rgb(134, 42, 232);
+    --header: #37a8ff;
+    --title: rgb(28, 39, 255);
     --scrollbar: gray;
     --scrollbar-track: #DDD;
 }
 
 [saved-theme="dark"] {
-    --light: #1e1e21 !important;
+    --light: #292D36 !important;
     --dark: #f7f2fa !important;
-    --secondary: #e0aeff !important;
-    --visited: #d199ff !important;
-    --tertiary: #92a8ff !important;
+    --secondary: #0099db !important;
+    --visited: #41dcff !important;
+    --tertiary: #c9d4ff !important;
     --primary: #f58382 !important;
     --gray: #d4d4d4 !important;
     --lightgray: #292633 !important;
     --outlinegray: #343434 !important;
     --highlighted: #574010;
-    --header: #7838f8;
-    --title: rgb(255, 108, 196);
+    --header: #37a8ff;
+    --title: rgb(166, 171, 255);
     --scrollbar: rgb(177, 177, 177);
     --scrollbar-track: rgb(51, 51, 51);
 }

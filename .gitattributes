@@ -1,0 +1,9 @@
+static/favicon.png merge=ours
+static/linkmap merge=ours
+config.yaml merge=ours
+theme.toml merge=ours
+content/* merge=ours
+resources/* merge=ours
+assets/_colors.scss merge=ours
+assets/indices/linkIndex.json merge=ours
+assets/indices/contentIndex.json merge=ours
