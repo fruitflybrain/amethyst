@@ -1,4 +1,4 @@
-baseURL: https://localhost:1313
+baseURL: https://localhost:13131
 
 # Book configuration
 disablePathToLower: true
