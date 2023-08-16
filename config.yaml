@@ -26,7 +26,7 @@ menu:
   after:
     - name: "Github"
       url: "https://github.com/FruitFlyBrain"
-      weight: 10
+      weight: 30
 
 params:
 
@@ -86,7 +86,7 @@ params:
   # Footer links
   links:
     - link_name: FFBO
-      link: https://fruitflybrain.org
+      link: https://www.fruitflybrain.org
     - link_name: Bionet Lab
       link: http://www.bionet.ee.columbia.edu
 
